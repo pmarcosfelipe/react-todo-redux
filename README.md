@@ -10,8 +10,8 @@ It is a formation course named <b>Curso React + Redux: Fundamentos e 2 Apps do A
 - Módulo 3: [Projeto Calculadora](https://github.com/pmarcosfelipe/react-calculator) (7 aulas)
 - Módulo 4: [TodoApp (Backend)](https://github.com/pmarcosfelipe/react-todo) (9 aulas)
 - Módulo 5: [TodoApp (Frontend)](https://github.com/pmarcosfelipe/react-todo) (10 aulas)
-- Módulo 6: [React com Redux](https://github.com/pmarcosfelipe/react-todo-redux) (8 aulas)
-- Módulo 7: TodoApp (Migração para Redux) (16 aulas)
+- Módulo 6: [React com Redux](https://github.com/pmarcosfelipe/redux-exercises) (8 aulas)
+- Módulo 7: [TodoApp (Migração para Redux)](https://github.com/pmarcosfelipe/react-todo-redux) (16 aulas)
 - Módulo 8: Aplicação Final - Ciclos de Pagamentos (Backend) (14 aulas)
 - Módulo 9: Aplicação Final - Ciclos de Pagamentos (Frontend) (58 aulas)
 - Módulo 10: Melhorias e Correções (2 aulas)
@@ -35,14 +35,6 @@ It is a formation course named <b>Curso React + Redux: Fundamentos e 2 Apps do A
 To use the application, you should run in one terminal:
 
 ```bash
-cd frontend/
-npm run dev
-```
-
-and in other terminal:
-
-```bash
-cd backend/
 npm run dev
 ```
 
